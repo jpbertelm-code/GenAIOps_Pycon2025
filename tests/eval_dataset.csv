@@ -1,6 +1,5 @@
 question,answer
-¿Qué cubre el plan de beneficios Northwind Health Plus?,"El plan Northwind Health Plus cubre atención médica, dental, de la vista, medicamentos recetados y servicios de salud mental."
-¿Cuál es el procedimiento para tomar una licencia por maternidad?,Debes notificar a Recursos Humanos al menos 30 días antes de la fecha esperada y presentar la documentación médica correspondiente.
-¿Qué incluye el programa PerksPlus?,"PerksPlus incluye descuentos en gimnasios, membresías de bienestar, vales de alimentos y soporte financiero."
-¿Qué responsabilidades tiene un analista de datos según el role library?,"Según el Role Library, un analista de datos debe recolectar, limpiar y analizar datos para generar reportes estratégicos para el negocio."
-¿Cuáles son los beneficios estándar de Northwind?,"Los beneficios estándar incluyen seguro médico básico, vacaciones pagadas, y plan de retiro 401(k)."
+¿Qué propone el estudio en relación con el análisis espacial del rendimiento en baloncesto?,"El estudio propone herramientas para representar mapas de la cancha que visualicen las zonas con diferentes niveles de probabilidad de encestar, utilizando técnicas de modelado algorítmico como CART, Random Forest y Extremely Randomized Trees."
+¿Qué novedad metodológica introduce el artículo respecto a trabajos previos?,"Introduce el uso de coordenadas polares, en lugar de cartesianas, para representar las posiciones de tiro, lo que permite una partición más coherente con la geometría de la cancha."
+¿Qué limitación tiene el método CART en este contexto?,"CART puede ser inestable ante pequeños cambios en los datos o en los parámetros de ajuste, lo que genera particiones variables del espacio de la cancha."
+¿Cómo se supera la inestabilidad de CART según los autores?,"Se recurre a algoritmos de aprendizaje en conjunto basados en árboles como Random Forest y Extremely Randomized Trees, que combinan múltiples árboles para obtener resultados más robustos y consistentes."

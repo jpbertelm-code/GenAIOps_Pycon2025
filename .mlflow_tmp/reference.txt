@@ -1,0 +1,1 @@
+Se recurre a algoritmos de aprendizaje en conjunto basados en árboles como Random Forest y Extremely Randomized Trees, que combinan múltiples árboles para obtener resultados más robustos y consistentes.

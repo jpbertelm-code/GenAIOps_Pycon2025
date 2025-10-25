@@ -31,7 +31,7 @@ def load_documents(path=DATA_DIR):
             docs.extend(loader.load())
     return docs
 
-def save_vectorstore(chunk_size=512, chunk_overlap=50, persist_path=VECTOR_DIR):
+def save_vectorstore(chunk_size=1024, chunk_overlap=50, persist_path=VECTOR_DIR):
     docs = load_documents()
     splitter = RecursiveCharacterTextSplitter(
         chunk_size=chunk_size,
